@@ -30,7 +30,7 @@
 
 - 	It has an hourly service to download .dav files from your cams and aggregate them into 1 hour mkv file per cam.
 - 	Watch recently recorded footage (1hr back).
-- 	watch 1 hour mkv archive.
+- 	watch archive of 1 hour mkvs.
 
 #
 
