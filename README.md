@@ -4,9 +4,9 @@ Portal into (some of) my python projects.
 
 Currently showing:
 
-## PbScraper
+# PbScraper
 
-# Skip the browser part of scouring PB mirrors for the content of your choice.
+## Skip the browser part of scouring PB mirrors for the content of your choice.
 	*	Search by title.
 	*	Filter PB category or uploader by keywords.
 	*	Searches saved and stop at last checked entry.
@@ -14,9 +14,9 @@ Currently showing:
 
 
 
-## ImouViewer
+# ImouViewer
 
-# Check an IMOU REX3 IP cam. 
+## Check an IMOU REX3 IP cam. 
 -	Uses mpv player.
 - 	It can change these settings:
 	* PTZ, move Up/Down/Left/Right.
@@ -30,9 +30,9 @@ Currently showing:
 
 
 
-## NordVPN-GUI (TK)
+# NordVPN-GUI (TK)
 
-# More elaborate version for NordVPN interaction.
+## More elaborate version for NordVPN interaction.
 - 	Organise MESH permissions.
 - 	Choose Server/Country/City for connecting to.
 - 	Change NordVPN settings.
