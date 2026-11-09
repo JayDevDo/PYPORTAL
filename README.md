@@ -1,12 +1,10 @@
 # PYPORTAL
 
-Portal into (some of) my python projects.
+## Portal into (some of) my python projects.
 
-Currently showing:
 
-# -------------------------------------
+#
 # PbScraper
-# -------------------------------------
 
 # Skip the browser part of scouring PB mirrors for the content of your choice.
 	*	Search by title.
@@ -14,11 +12,13 @@ Currently showing:
 	*	Searches saved and stop at last checked entry.
 	*	Create magnets for torrent downloader (QBittorrent,Tixati)
 
+#
 
 
-# -------------------------------------
+
+
+#
 # ImouViewer
-# -------------------------------------
 
 ## Check an IMOU REX3 IP cam. 
 -	Uses mpv player.
@@ -32,11 +32,13 @@ Currently showing:
 - 	Watch recently recorded footage (1hr back).
 - 	watch 1 hour mkv archive.
 
+#
 
 
-# -------------------------------------
+
+
+#
 # NordVPN-GUI (TK)
-# -------------------------------------
 
 ## More elaborate version for NordVPN interaction.
 - 	Organise MESH permissions.
@@ -44,3 +46,4 @@ Currently showing:
 - 	Change NordVPN settings.
 - 	View connection info and stats.
 
+#
