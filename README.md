@@ -4,9 +4,11 @@ Portal into (some of) my python projects.
 
 Currently showing:
 
+# -------------------------------------
 # PbScraper
+# -------------------------------------
 
-## Skip the browser part of scouring PB mirrors for the content of your choice.
+# Skip the browser part of scouring PB mirrors for the content of your choice.
 	*	Search by title.
 	*	Filter PB category or uploader by keywords.
 	*	Searches saved and stop at last checked entry.
@@ -14,7 +16,9 @@ Currently showing:
 
 
 
+# -------------------------------------
 # ImouViewer
+# -------------------------------------
 
 ## Check an IMOU REX3 IP cam. 
 -	Uses mpv player.
@@ -30,7 +34,9 @@ Currently showing:
 
 
 
+# -------------------------------------
 # NordVPN-GUI (TK)
+# -------------------------------------
 
 ## More elaborate version for NordVPN interaction.
 - 	Organise MESH permissions.
