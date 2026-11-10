@@ -1,0 +1,43 @@
+{
+  "locations": {
+    "github": {
+      "hosts": ["jaydevdo.github.io"],
+      "origin": "https://jaydevdo.github.io",
+      "basePath": "/PYPORTAL/"
+    },
+    "jvd": {
+      "hosts": ["jayvando.com", "www.jayvando.com"],
+      "origin": "https://jayvando.com",
+      "basePath": "/PYPORTAL/"
+    },
+    "flask": {
+      "hosts": ["localhost", "127.0.0.1", "MSI-LT", "msi-lt"],
+      "origin": "",
+      "basePath": "/PYPORTAL/"
+    }
+  },
+  "defaultLocation": "flask",
+  "sites": [
+    {
+      "name": "IMOUVIEWER",
+      "path": "IMOUVIEWER/index.html",
+      "homeX": 0.17,
+      "homeY": 0.20,
+      "color": [128, 0, 128]
+    },
+    {
+      "name": "NORDVPN-GUI",
+      "path": "NORDVPN-GUI/index.html",
+      "homeX": 0.50,
+      "homeY": 0.18,
+      "color": [0, 128, 0]
+    },
+    {
+      "name": "PBSCRAPER",
+      "path": "PBSCRAPER/index.html",
+      "homeX": 0.27,
+      "homeY": 0.73,
+      "color": [0, 255, 255]
+    }
+  ]
+}
